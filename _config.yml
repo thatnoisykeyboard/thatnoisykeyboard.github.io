@@ -119,7 +119,7 @@ comments:
   provider  : "staticman_v2"
   staticman:
     branch    : "master"
-    staticman_url: https://sealedhermit-staticman.herokuapp.com/v3/entry/github/sealedhermit/sealedhermit.github.io/master/comments
+staticman_url: https://sealedhermit-staticman.herokuapp.com/v3/entry/github/sealedhermit/sealedhermit.github.io/master/comments
 
 reCaptcha:
   siteKey: ""
