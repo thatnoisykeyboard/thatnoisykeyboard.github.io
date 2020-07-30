@@ -113,3 +113,14 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+repository  : "sealedhermit/sealedhermit.github.io"
+comments:
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "master"
+    endpoint  : https://staticmanv3.herokuapp.com/v3/entry/github/sealedhermit/sealedhermit.github.io/master/comments
+
+reCaptcha:
+  siteKey: ""
+  secret: ""
