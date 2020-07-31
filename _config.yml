@@ -119,8 +119,8 @@ comments:
   provider  : "staticman_v2"
   staticman:
     branch    : "master"
-staticman_url: https://sealedhermit-staticman.herokuapp.com/v3/entry/github/sealedhermit/sealedhermit.github.io/master/comments
+staticman_url: https://sealedhermitbot.herokuapp.com/v2/entry/sealedhermit/sealedhermit.github.io/master/comments
 
 reCaptcha:
-  siteKey: ""
-  secret: ""
+  siteKey: "6Lf4XrYZAAAAAEtBdoysB4Gzao8yIq76Hh73xetj"
+  secret: "KutUL9L25ZkpYYYX0bnrMxpLHXV1rYOfQrFqWnBg51hASWMGGVLPZllRU/MB7EhOn272dUAuzOOWJHs7WaSwCStMOGb5Z6DGiBriNjqmAAk0MMT/RhkgUCfMtMRDEJOHvysUP0v1kmWrp7ZOXATvBiPCk8I3Q/GGnVnQ16wcqfH5d/2c6WY8GP50vvh/ukVsMhzLkBmMCQ9NxdkWgf9R8d0iYmMHs/krG5NonwrgwYtqsXm7pD13AIklZCBq2+yMgR1sLW+KAjoEZhiRk9DKwqZ//vDtyg82T8Z7IEF8xPUuzjwUiTHbtO4nRxNHWj5HmckyGo8lgLO4b7PLOFMVO1z/WrF/1GgwHCtXDWAV9G2v+OF6nZh5JZhS+y8ETXNqynrKDDXvG6rK8qzA9ToE4NzythALX3/XbYAJy4PiaS5NZz9Wgq197KwZ5vDetGa+KzR2VD3zrB8zY2mW2ydz2AIZ8RAoZFwzfFFaH81X8H8Ja79zNusGoOgCd1Vkwk87OpAWOG8M5mRI/yIBLiQAgrRqShLOiQRpL4UqKi6RlDZ5etvIyHzs7jcOVkA/I1nHV4d/32K5BgIfm/iceHL8ZKlutBS9RDF3NWsqk3EqSHJ4C3JKQGFkG6nA1/iYpQQjd3ToZMnCuuLiXS7iOWhBz72DAKTuAXkMj7LTajPVMS8="
