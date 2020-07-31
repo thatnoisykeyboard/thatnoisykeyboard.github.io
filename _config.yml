@@ -122,5 +122,5 @@ comments:
 staticman_url: https://bananafry.herokuapp.com/v2/entry/sealedhermit/sealedhermit.github.io/master/comments
 
 reCaptcha:
-  siteKey: "6Lf4XrYZAAAAAEtBdoysB4Gzao8yIq76Hh73xetj"
-  secret: "HnTsbuqmSWgxkGB5bA3EEKd17MqXpW4atvox1qZ7+PBiaY2Nf6DOVCvJHWDcI++FjPGrwQaROUaazhwVk3A0NiL92IWn/k1i2oo9lBt8LP+exPtfjjSehBj+TvAplZV1ANUaF5/uunguUzznadjRW69Ehv0erPgFRCkFQZUG4krqz6hnbSrNsv6TdVOuGLwQZ46PYMq9G1tdVWGWqFxjwa1sZqSVqy9uBGJze+fg7GGuuIMLd4Eom31jpvf2U/U1hP0umTqw7f0of1ZzCZbKMG303E0fS01Kyr+E4/tKNos/b2CAnvZcZ0Fpq5T+ifYt4LB1aToGGbxq+RymczhqCA=="
+  siteKey: ""
+  secret: ""
