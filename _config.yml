@@ -61,7 +61,7 @@ author:
   location : "Kerala, India"
   name   : "vidhun"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A tech guy writing about science, life and personal stuff"
+  bio    : "A tech guy writing about science, life and personal stuff."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
