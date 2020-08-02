@@ -122,6 +122,11 @@ reCaptcha:
   siteKey: "6Lf3n7gZAAAAALgkh_9ifByBPLW7BszuGbw5Yy7Z"
   secret: "mX6z+aGbLEY3BEPxLQY37YJ9ll9Qafpcom/+KQAfC/pTxXUhgoXhUg0p1f4fdLLj0y3d/9YjXemjE7agF7J1KrL8xf29bnQleJgFfnV5q6YXpdlfuJqT02zQOuVQwVXImLwmj7EvZJEn/3tpp/jSMBUbGFW8Y7ZOWG9EI0auXnyVWMkISg8H2cVYXcBEYEMOD8zUd5WYQD5geEuGke86borXwWHte8Ese2cBrC6f1IT9jp96q7W5mLyBw3asXsCsMJio0Y7kwOEM2ZO3MnnEmTbeYL/NZCJX4Qp22AOhSEtBh5GpbGa3PkzrmO30N4aJq+2xV8XGDd27o/V7aTsWQw=="
 
+#SEO and Analytics
+
+google_site_verification : "HhY_ZXPdz1S-JQ09ExxaNJxs_FQFKGXvXAXYt0BLpZw"
+
+
 analytics:
   provider: "google-gtag"
   google:
