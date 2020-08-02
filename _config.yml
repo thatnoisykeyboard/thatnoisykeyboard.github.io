@@ -127,3 +127,8 @@ analytics:
   google:
     tracking_id: "UA-174196763-1"
     anonymize_ip: false # default
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
