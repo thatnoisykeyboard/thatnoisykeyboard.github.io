@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: nananjajeans
+title: unwisemonk
 email: sealedhermit@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: nananja_jeans
+twitter_username: 
 github_username: sealedhermit
 minimal_mistakes_skin: "default"
 search: true
@@ -61,14 +61,14 @@ author:
   location : "Kerala, India"
   name   : "unwise monk"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A tech guy writing about science, life and personal stuff."
+  bio    : ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sealedhermit.ml"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/nananja_jeans"
+      url: "https://twitter.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sealedhermit"
@@ -81,7 +81,7 @@ footer:
       url: "https://twitter.com/bananafry_"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sealedhermit"
+      url: "https://github.com"
    
 
 defaults:
