@@ -124,10 +124,6 @@ reCaptcha:
 
 #SEO and Analytics
 
-google_site_verification : "HhY_ZXPdz1S-JQ09ExxaNJxs_FQFKGXvXAXYt0BLpZw"
-bing_site_verification   : "7BB8F13E10D9A59C36AC49739A364A41"
-
-
 analytics:
   provider: "google-gtag"
   google:
