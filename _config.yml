@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: thatnoisykeyboard
+title: that noisy keyboard
 email: thatnoisykeyboard@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -59,7 +59,7 @@ plugins:
 
 author:
   location : "Kolkata, India"
-  name   : "priyanka roy"
+  name   : "a random writer"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ""
   links:
@@ -111,14 +111,14 @@ tag_archive:
   type: liquid
   path: /tags/
 
-#repository  : "thatnoisykeyboard/thatnoisykeyboard.github.io"
-#comments:
+repository  : "sealedhermit/sealedhermit.github.io"
+comments:
   provider  : "staticman_v2"
   staticman:
     branch    : "master"
 staticman_url: https://bananafry.herokuapp.com/v2/entry/sealedhermit/sealedhermit.github.io/master/comments
 
-#reCaptcha:
+reCaptcha:
   siteKey: "6Lf3n7gZAAAAALgkh_9ifByBPLW7BszuGbw5Yy7Z"
   secret: "mX6z+aGbLEY3BEPxLQY37YJ9ll9Qafpcom/+KQAfC/pTxXUhgoXhUg0p1f4fdLLj0y3d/9YjXemjE7agF7J1KrL8xf29bnQleJgFfnV5q6YXpdlfuJqT02zQOuVQwVXImLwmj7EvZJEn/3tpp/jSMBUbGFW8Y7ZOWG9EI0auXnyVWMkISg8H2cVYXcBEYEMOD8zUd5WYQD5geEuGke86borXwWHte8Ese2cBrC6f1IT9jp96q7W5mLyBw3asXsCsMJio0Y7kwOEM2ZO3MnnEmTbeYL/NZCJX4Qp22AOhSEtBh5GpbGa3PkzrmO30N4aJq+2xV8XGDd27o/V7aTsWQw=="
 
@@ -128,7 +128,7 @@ google_site_verification : "HhY_ZXPdz1S-JQ09ExxaNJxs_FQFKGXvXAXYt0BLpZw"
 bing_site_verification   : "7BB8F13E10D9A59C36AC49739A364A41"
 
 
-#analytics:
+analytics:
   provider: "google-gtag"
   google:
     tracking_id: "UA-174196763-1"
