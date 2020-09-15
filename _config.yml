@@ -111,13 +111,12 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# Disqus Comments
-disqus:
-  # Leave shortname blank to disable comments site-wide.
-  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-  shortname: thatnoisykeyboard
-
-
+comments:
+  provider: "facebook"
+  facebook:
+    appid: # optional
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
 
 compress_html:
   clippings: all
