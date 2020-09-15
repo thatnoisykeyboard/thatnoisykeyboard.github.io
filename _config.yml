@@ -111,14 +111,14 @@ tag_archive:
   type: liquid
   path: /tags/
 
-repository  : "thatnoisykeyboard/thatnoisykeyboard.github.io"
+#repository  : "thatnoisykeyboard/thatnoisykeyboard.github.io"
 comments:
-  provider  : "staticman_v2"
+  provider  : ""
   staticman:
-    branch    : "master"
+    branch    : ""
 staticman_url: https://bananafry.herokuapp.com/v2/entry/thatnoisykeyboard/thatnoisykeyboard.github.io/master/comments
 
-reCaptcha:
+#reCaptcha:
   siteKey: "6LcGa8wZAAAAAGcPSva1IhbFfmGn3Ln25imByxqv"
   secret: "nbGHTDoN3gA2pJUkhj9A7yM80Mytb+qSmKvbg/yRo2WBBpwADiK7u97wf82RFr54PX5WxwwXR0Snk6xF/QmPhjvqQuBeHEvaJIANP9UVVqAXchQI5Vpuzy1jGhq1/5Hu4MSbVrc95rmUpmY3/gCbK/iHbn7lidSxxDNHhEfd6wF/e05fco4s61WgiCH+LM21CdPwN1HJGFIEPdx9nB8wr7GztALBr3JZOsrZlhzu5uEKt5gGp45BPK0Srz1jVUr+CDkCqOl4Y59P8lzB1++VSq12WIkdH5c8pTHDGci3mPt5Ac11oGVGG9W1baW40YmHl1rpW7gSjqbWTBx/it0prA=="
 
