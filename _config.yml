@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: unwisemonk
-email: sealedhermit@gmail.com
+title: thatnoisykeyboard
+email: thatnoisykeyboard@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -58,14 +58,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  location : "Kerala, India"
-  name   : "unwise monk"
+  location : "Kolkata, India"
+  name   : "priyanka roy"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://sealedhermit.ml"
+      url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com"
@@ -111,7 +111,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
-repository  : "sealedhermit/sealedhermit.github.io"
+repository  : "thatnoisykeyboard/thatnoisykeyboard.github.io"
 comments:
   provider  : "staticman_v2"
   staticman:
