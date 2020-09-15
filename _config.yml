@@ -111,12 +111,11 @@ tag_archive:
   type: liquid
   path: /tags/
 
-repository  : "sealedhermit/sealedhermit.github.io"
-comments:
-  provider  : "staticman_v2"
-  staticman:
-    branch    : "master"
-staticman_url: https://bananafry.herokuapp.com/v2/entry/sealedhermit/sealedhermit.github.io/master/comments
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: thatnoisykeyboard
 
 
 
